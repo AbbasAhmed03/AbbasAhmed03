@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- الصورة الشخصية مع إطار دائري متناسق مع تصميمك -->
-  <img src="https://github.com/AbbasAhmed03/AbbasAhmed03/blob/main/photo_2026-07-09_14-37-14.jpg?raw=true" width="180" style="border-radius: 50%; border: 3px solid #0d9488;" alt="Abbas Ahmed">
+  <!-- رابط الصورة بعد رفعه داخل المستودع -->
+  <img src="photo_2026-07-09_14-37-14.jpg" width="180" style="border-radius: 50%; border: 3px solid #0d9488;" alt="Abbas Ahmed">
 
   <h1>Hi, I'm <span style="color: #0d9488;">Abbas Ahmed</span> 👋</h1>
   <p><strong>Full-Stack Web & Desktop Programmer</strong></p>
 
-  <!-- بطاقات الإحصائيات بألوان الثيم الخاص بك -->
+  <!-- تم تعديل الرابط هنا ليعمل مباشرة مع حسابك -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=AbbasAhmed03&show_icons=true&theme=tokyonight&color_title=0d9488&color_icon=0d9488&bg_color=0f172a&hide_border=true" alt="GitHub Stats" />
   </p>
