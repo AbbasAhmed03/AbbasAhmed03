@@ -15,8 +15,12 @@
 
   <!-- بطاقة الإحصائيات المدمجة بالثيم الداكن وتوهج النعناع الأخضر -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AbbasAhmed03&show_icons=true&theme=tokyonight&color_title=0d9488&color_icon=0d9488&bg_color=0f172a&hide_border=true&title_color=0d9488&icon_color=0d9488&text_color=94a3b8" alt="Abbas Ahmed GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasAhmed03&theme=tokyonight&ring=0d9488&fire=0d9488&currStreakLabel=0d9488" alt="GitHub Streak" width="48%" />
+    <a href="https://github.com/AbbasAhmed03">
+      <img src="https://github-readme-stats.vercel.app/api?username=AbbasAhmed03&show_icons=true&theme=tokyonight&color_title=0d9488&color_icon=0d9488&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" width="49.5%" />
+    </a>
+    <a href="https://github.com/AbbasAhmed03">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasAhmed03&theme=tokyonight&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&background=0f172a&hide_border=true" alt="GitHub Streak" width="49.5%" />
+    </a>
   </p>
 </div>
 
