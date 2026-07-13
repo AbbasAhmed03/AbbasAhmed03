@@ -1,80 +1,74 @@
-<div align="center">
-  <!-- تأثير الهوية البصرية المتناسقة مع ثيمك الفاخر -->
-  <img src="photo_2026-07-09_14-37-14.jpg" width="160" style="border-radius: 50%; border: 4px solid #0d9488; box-shadow: 0px 0px 20px rgba(13, 148, 136, 0.4);" alt="Abbas Ahmed">
+## Hey there 👋, I'm [Abbas Ahmed!](https://github.com/AbbasAhmed03)
 
-  <h1><span style="color: #f1f5f9;">Hi, I'm</span> <span style="color: #0d9488;">Abbas Ahmed</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"></h1>
-  
-  <!-- وسام التخصص العصري المدعم بأيقونة متلألئة -->
-  <p>
-    <img src="https://img.shields.io/badge/Role-Full--Stack%20Web%20%26%20Desktop%20Programmer-0d9488?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </p>
+<!-- أزرار التواصل المحدثة بثيم الألوان الخاص بك -->
+[![X Badge](https://img.shields.io/badge/-X_Profile-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/abbas_devs?s=11)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](#)
+[![Email Badge](https://img.shields.io/badge/-Email-0d9488?style=flat-square&logo=maildotru&logoColor=white)](mailto:me@abbasahmed.me)
 
-  <p style="color: #94a3b8; max-width: 600px; font-size: 1.05rem;">
-    Engineering mind building clean desktop architectures and high-performance full-stack web ecosystems. 
-  </p>
+### Glad to see you here! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AbbasAhmed03&label=Profile%20views&color=0d9488&style=flat" alt="AbbasAhmed03" /> </p>
 
-  <!-- بطاقة الإحصائيات المدمجة بالثيم الداكن وتوهج النعناع الأخضر -->
-  <p align="center">
-    <a href="https://github.com/AbbasAhmed03">
-      <img src="https://github-readme-stats.vercel.app/api?username=AbbasAhmed03&show_icons=true&theme=tokyonight&color_title=0d9488&color_icon=0d9488&bg_color=0f172a&hide_border=true&count_private=true" alt="GitHub Stats" width="49.5%" />
-    </a>
-    <a href="https://github.com/AbbasAhmed03">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasAhmed03&theme=tokyonight&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&background=0f172a&hide_border=true" alt="GitHub Streak" width="49.5%" />
-    </a>
-  </p>
-</div>
+I am a **Full-Stack Web & Desktop Programmer**. I focus on building robust desktop applications and modern, layered web ecosystems, combining engineering logic with structured programming to create scalable software.
 
-<br>
-<hr style="border: 0; height: 1px; background: linear-gradient(90deg, transparent, rgba(51, 65, 85, 0.7), transparent);">
-<br>
+I have a deep passion for problem-solving and clean code architecture. With a strong foundation in C#, C++, SQL, and JavaScript, I aim to build high-performance products and educational tools that make a real impact.
 
-### 🚀 Overview & Architecture Philosophy
-- 🛠️ **Engineering Logic:** Combining structural analysis with advanced application scalability.
-- ⚡ **Core Focus:** Crafting robust desktop platforms and modern layered web environments.
-- 📐 **Pattern & Design:** Adopting strict architectural separation like Three-Tier layer structures for absolute reliability.
+When I'm not coding, I'm exploring new technical standards, optimizing application performance, or building modern user interfaces.
 
----
+Feel free to connect with me for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-### 💻 Tech Stack & Ecosystem
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <strong>🧠 Core Languages</strong><br><br>
-      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-    <td align="center" width="33%">
-      <strong>🌐 Web UI Architecture</strong><br><br>
-      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td align="center" width="33%">
-      <strong>🗄️ Database & Environment</strong><br><br>
-      <img src="https://img.shields.io/badge/SQL_Database-%2300758F.svg?style=flat-square&logo=sqlite&logoColor=white" /><br><br>
-      <img src="https://img.shields.io/badge/Git_Control-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📬 Connect & Collaborate
-
-<p align="left">
-  <!-- حسابك في X (تويتر سابقاً) بالشعار الجديد -->
-  <a href="https://x.com/abbas_devs?s=11" target="_blank">
-    <img src="https://img.shields.io/badge/X_Profile-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X Profile" />
-  </a>
-  
-  <!-- إيميلك الشخصي الرسمي الفاخر -->
-  <a href="mailto:me@abbasahmed.me">
-    <img src="https://img.shields.io/badge/Email-me%40abbasahmed.me-0d9488?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" />
-  </a>
-
-  <!-- حسابك في لينكد إن (يمكنك وضع الرابط بدلاً من علامة #) -->
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
+<hr>
+
+<img align="right" height="250" width="375" alt="Developer GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuff:
+
+- 🛠 &nbsp; I’m currently working with C#, SQL, and building desktop architectures.
+- 🚀 &nbsp; I’m currently exploring advanced web development and full-stack solutions.
+- 📐 &nbsp; Architecture Philosophy: Implementing clean Three-Tier layer structures for high reliability.
+- 📫 &nbsp; Reach me out: me@abbasahmed.me
+
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love designing structured backends and clean user interfaces.
+- 📚 &nbsp; Analyzing algorithmic problems and optimizing software logic.
+- 🎓 &nbsp; Building and sharing educational tech platforms.
+
+### Languages and Tools:
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html5/html5.png" alt="html5"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png" alt="css3"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+
+### Projects and Dev Stuffs:
+
+<!-- تم تعديل الإحصائيات لتأخذ ألوان ثيمك الخاص بدقة -->
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbbasAhmed03&show_icons=true&theme=tokyonight&color_title=0d9488&color_icon=0d9488&bg_color=0f172a&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasAhmed03&theme=tokyonight&color_title=0d9488&bg_color=0f172a&hide_border=true&layout=compact&langs_count=6" />
+</details>
+
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbbasAhmed03&theme=tokyonight&ring=0d9488&fire=0d9488&currStreakLabel=0d9488&hide_border=true" />
+</details>
+
+#
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
