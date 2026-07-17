@@ -1,0 +1,70 @@
+# 🚀 TEG Simulator Pro - Gas Dehydration Process Analyzer
+
+![Version](https://img.shields.io/badge/version-15.5.0-blue.svg)
+![Build](https://img.shields.io/badge/build-passing-brightgreen.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Architecture](https://img.shields.io/badge/architecture-Pure_Web_(Vanilla_JS)-orange.svg)
+
+## 📖 Overview
+**TEG Simulator Pro** is a professional-grade engineering web application that simulates natural gas dehydration processes using **Triethylene Glycol (TEG)**. This simulator is designed to be a fast, independent, and open-source alternative to complex commercial software like Aspen HYSYS, while strictly maintaining the accuracy of thermodynamic calculations, mass conservation laws, and energy balances.
+
+The application runs entirely in the browser (Client-side) without the need for backend servers, ensuring absolute responsiveness, zero latency, and complete data privacy.
+
+---
+
+## ✨ Key Features (Engineering & Software)
+
+### 🔬 Thermodynamic Core
+* **Strict Mass Conservation:** Precise algorithms ensure absolutely no mass is lost or artificially created (Mass IN = Mass OUT) down to the fourth decimal place across all unit operations.
+* **Targeted VLE Flash:** Accurate dynamic simulation of the Free Water Knockout (FWKO) separator. It prevents the false condensation of light gases (C1-C4) while properly condensing free water and heavy hydrocarbons based on dynamic $K$-Values.
+* **Absorption Simulation (Modified Kremser):** Custom algorithms to simulate the physical absorption of heavy hydrocarbons and aromatic compounds (BTEX) into the glycol within the contactor tower.
+* **Accurate Energy Balance:** Precise enthalpy calculations based on the polynomial integration of ideal gas heat capacities ($C_p$), correctly incorporating the latent heat of vaporization/condensation for water streams.
+
+### 💻 UI & Tools
+* **SCADA Theme:** A dark, industrial user interface inspired by real-world DCS (Distributed Control Systems) and SCADA monitoring screens.
+* **Interactive PFD:** A dynamic Process Flow Diagram displaying gas and glycol routes with real-time SVG animations and instant updates for flow rates and temperatures.
+* **Excel Reporting:** Generate comprehensive, production-ready engineering reports detailing material and energy balances for every equipment piece in `.xlsx` format with a single click.
+* **OPEX & CO2 Calculator:** Instant calculation of daily operational expenditures (fuel gas consumption and glycol makeup costs) alongside estimated carbon footprint emissions.
+* **Smart Assistant:** A built-in bilingual chatbot (English/Arabic) designed to act as a virtual senior engineer, helping users troubleshoot operational issues (e.g., foaming, thermal degradation) and suggesting optimizations based on live simulation data.
+
+---
+
+## 🏗️ Project Structure
+
+The application is built using **Modular Vanilla JavaScript** to ensure maximum performance, ease of deployment, and straightforward maintenance:
+
+* `index.html`: The main entry point and structure of the Graphical User Interface (UI).
+* `style.css`: The SCADA theme stylesheets, layout grids, and SVG pipeline flow animations.
+* `engine.js`: **The beating heart of the simulator.** Contains the core OOP thermodynamic classes (`ThermoEngine`, `Stream`, `UnitOperation`, `PlantSimulator`).
+* `admin.js`: The dynamic database managing the thermodynamic properties and heat capacity constants ($C_p$).
+* `lang.js`: The Bilingual Engine handling UI translations dynamically.
+* `chatbot.js`: The NLP logic and engineering knowledge base for the Smart Assistant.
+
+---
+
+## ⚙️ Supported Unit Operations
+1. **Saturator Mixer:** Saturates the feed gas with water to simulate worst-case scenario water loading.
+2. **FWKO Separator:** Free Water Knock Out vessel to mechanically separate free liquid water and heavy hydrocarbon condensates.
+3. **Absorber T-100:** The contactor tower simulating counter-current mass transfer between wet gas and lean TEG.
+4. **L/R Heat Exchanger:** Lean/Rich heat exchanger for maximum energy recovery and thermal shock prevention.
+5. **TEG Regenerator:** The distillation column and reboiler simulating the thermal stripping of water to produce 99%+ Lean TEG.
+6. **Makeup Mixer:** The unit compensating for minor mechanical and vaporization TEG losses.
+
+---
+
+## 🚀 Installation & Usage
+This application requires zero installation of complex runtime environments (No Node.js, Python, or Docker required). 
+
+1. **Clone or Download** the repository as a ZIP file.
+2. Extract the files into a single local directory.
+3. Double-click the `index.html` file to open it in any modern web browser (Google Chrome, Microsoft Edge, Mozilla Firefox).
+4. Input your plant's operating parameters (Gas Flow, Feed Temp, Target Dew Point, etc.).
+5. Click **▶ Run HYSYS Simulation** to instantly generate the results.
+
+---
+
+## 📜 License
+This project is open-sourced and available under the [MIT License](LICENSE). It is free for educational purposes, commercial integration, and custom modifications.
+
+---
+*Engineered and developed with a vision to bridge chemical process engineering standards with robust, modern software engineering practices.*
