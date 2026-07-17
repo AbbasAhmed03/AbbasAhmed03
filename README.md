@@ -8,13 +8,13 @@
 ### Glad to see you here! 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbbasAhmed03&label=Profile%20views&color=0d9488&style=flat" alt="AbbasAhmed03" /> </p>
 
-I am a **Full-Stack Web & Desktop Programmer**. I focus on building robust desktop applications and modern, layered web ecosystems, combining engineering logic with structured programming to create scalable software.
+I am a Full-Stack Web Developer. My journey into technology began in a different landscape—holding a bachelor’s degree in Chemical Engineering, where I honed my analytical mindset and structured approach to complex systems. Driven by a deep passion for logic and problem-solving, I pivoted into software engineering, channelizing those exact engineering principles into building scalable web ecosystems.
 
-I have a deep passion for problem-solving and clean code architecture. With a strong foundation in C#, C++, SQL, and JavaScript, I aim to build high-performance products and educational tools that make a real impact.
+Today, I focus exclusively on modern web development, creating robust backends and dynamic interfaces. With a strong foundation in C#, C++, JavaScript, and SQL database design, I bridge the gap between heavy technical architectures and clean, high-performance web applications.
 
-When I'm not coding, I'm exploring new technical standards, optimizing application performance, or building modern user interfaces.
+When I'm not coding, I'm analyzing application performance, diving into technical standards, or designing automated tools that make a real impact.
 
-Feel free to connect with me for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me for all things web development or just to say hello! Let's shape the future of tech together. 🌟
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
